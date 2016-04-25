@@ -1,0 +1,3455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nicolas, CH",
+        "subtitle": "10.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mathieu, CH",
+        "subtitle": "10.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hansmartin, CH",
+        "subtitle": "10.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Igor, Stuttgart, DE",
+        "subtitle": "10.Dec 2015",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1833,
+          48.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pieter, Zurich, CH",
+        "subtitle": "12.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terence, Köniz, CH",
+        "subtitle": "18.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4339,
+          46.9139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marco, Köniz, CH",
+        "subtitle": "18.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4339,
+          46.9139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vasile, Zurich, CH",
+        "subtitle": "20.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harry, CH",
+        "subtitle": "23.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jakub, Krakow, PL",
+        "subtitle": "24.Dec 2015",
+        "ticket_country_code": "pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9167,
+          50.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Romina, Köniz, CH",
+        "subtitle": "28.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4339,
+          46.9139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sean, Olm, LU",
+        "subtitle": "28.Dec 2015",
+        "ticket_country_code": "lu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0003,
+          49.6572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yurii, Amsterdam, NL",
+        "subtitle": "30.Dec 2015",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9027,
+          52.3666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fabian, CH",
+        "subtitle": "30.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Luca, Kloten, CH",
+        "subtitle": "31.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5821,
+          47.4587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tomislav, Zagreb, HR",
+        "subtitle": "31.Dec 2015",
+        "ticket_country_code": "hr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9667,
+          45.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Henri, Geneva, CH",
+        "subtitle": "31.Dec 2015",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0984,
+          46.1999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oliver, Schlieren, CH",
+        "subtitle": "08.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4474,
+          47.3944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SEBASTIAN, Gossau, CH",
+        "subtitle": "08.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2575,
+          47.4208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mario, Adliswil, CH",
+        "subtitle": "08.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5218,
+          47.3079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leonard, Freiburg, DE",
+        "subtitle": "11.Jan 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8469999999999995,
+          47.9942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jerome, Freiburg, DE",
+        "subtitle": "11.Jan 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8469999999999995,
+          47.9942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Toni, CH",
+        "subtitle": "12.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776,
+          47.4254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simon, Zurich, CH",
+        "subtitle": "14.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4903,
+          47.3642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Noé, CH",
+        "subtitle": "20.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Natalia, NL",
+        "subtitle": "20.Jan 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Germain, CH",
+        "subtitle": "21.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pedro, Stockholm, SE",
+        "subtitle": "21.Jan 2016",
+        "ticket_country_code": "se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05,
+          59.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manuel, St. Gallen, CH",
+        "subtitle": "21.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3622,
+          47.4236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tim, Berlin, DE",
+        "subtitle": "22.Jan 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3873,
+          52.5161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fabio, Berlin, DE",
+        "subtitle": "22.Jan 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3873,
+          52.5161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Julian, Limassol, CY",
+        "subtitle": "25.Jan 2016",
+        "ticket_country_code": "cy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0379,
+          34.6841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eduardo, Buchs, CH",
+        "subtitle": "29.Jan 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4754,
+          47.1699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alexander, Freiburg, DE",
+        "subtitle": "01.Feb 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8469999999999995,
+          47.9942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jérémie, Zurich, CH",
+        "subtitle": "01.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5614,
+          47.3536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "José Ignacio, Zurich, CH",
+        "subtitle": "15.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Artur, Zurich, CH",
+        "subtitle": "15.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David, Zurich, CH",
+        "subtitle": "15.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marcel, Zurich, CH",
+        "subtitle": "15.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ignacio, Amsterdam, NL",
+        "subtitle": "17.Feb 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9027,
+          52.3666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nestor, Amsterdam, NL",
+        "subtitle": "17.Feb 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9027,
+          52.3666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guillaume, Zurich, CH",
+        "subtitle": "18.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5508,
+          47.4119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ivan, Zurich, CH",
+        "subtitle": "18.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5508,
+          47.4119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horatiu, Zurich, CH",
+        "subtitle": "18.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5508,
+          47.4119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guillaume, Zurich, CH",
+        "subtitle": "18.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5508,
+          47.4119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marc, Bern, CH",
+        "subtitle": "19.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3873,
+          46.955799999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Karolis, Berlin, DE",
+        "subtitle": "19.Feb 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4,
+          52.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roland, RO",
+        "subtitle": "21.Feb 2016",
+        "ticket_country_code": "ro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          46.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Emily, London, GB",
+        "subtitle": "21.Feb 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0941,
+          51.5144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patrick, Randogne, CH",
+        "subtitle": "22.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5006,
+          46.3071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eliezer, Zurich, CH",
+        "subtitle": "25.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roberto, Zurich, CH",
+        "subtitle": "25.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tânia, Zurich, CH",
+        "subtitle": "25.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tamas, Zurich, CH",
+        "subtitle": "25.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andrey, NL",
+        "subtitle": "28.Feb 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nico, NL",
+        "subtitle": "28.Feb 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raffael, Zurich, CH",
+        "subtitle": "29.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505700000000001,
+          47.3516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naegeli, CH",
+        "subtitle": "29.Feb 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776,
+          47.4254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dominik, Zurich, CH",
+        "subtitle": "02.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Philipp, Zurich, CH",
+        "subtitle": "02.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thomas, St. Gallen, CH",
+        "subtitle": "03.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3622,
+          47.4236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nikki, Antwerp, BE",
+        "subtitle": "03.Mar 2016",
+        "ticket_country_code": "be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4167,
+          51.2167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Conrad, Berlin, DE",
+        "subtitle": "03.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4138,
+          52.5233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dal, SI",
+        "subtitle": "04.Mar 2016",
+        "ticket_country_code": "si"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          46.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adam, Poznan, PL",
+        "subtitle": "04.Mar 2016",
+        "ticket_country_code": "pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9667,
+          52.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tomasz, Poznan, PL",
+        "subtitle": "04.Mar 2016",
+        "ticket_country_code": "pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9667,
+          52.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miran, Ljubljana, SI",
+        "subtitle": "04.Mar 2016",
+        "ticket_country_code": "si"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5051,
+          46.0511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arno, DE",
+        "subtitle": "04.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rafael, Zurich, CH",
+        "subtitle": "08.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4903,
+          47.3642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grob, Bern, CH",
+        "subtitle": "08.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4713,
+          46.9458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thomas, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harun, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Markus, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adrian, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gabriel, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andreas, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thomas, Zurich, CH",
+        "subtitle": "09.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paula, Floresti, RO",
+        "subtitle": "10.Mar 2016",
+        "ticket_country_code": "ro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4937,
+          46.7457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graham, Munchenstein, CH",
+        "subtitle": "10.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5962,
+          47.5225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Triin, Zurich, CH",
+        "subtitle": "15.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Matthias, Zurich, CH",
+        "subtitle": "15.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Luko, Napier City, NZ",
+        "subtitle": "16.Mar 2016",
+        "ticket_country_code": "nz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.8799,
+          -39.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nicolas, CH",
+        "subtitle": "16.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Louis Joseph, CH",
+        "subtitle": "16.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David, Portsmouth, GB",
+        "subtitle": "17.Mar 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0833,
+          50.7967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lekshmi, Amsterdam, NL",
+        "subtitle": "17.Mar 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9027,
+          52.3666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Samuel, Zurich, CH",
+        "subtitle": "17.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simon, Zurich, CH",
+        "subtitle": "17.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Julia, Zurich, CH",
+        "subtitle": "17.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andrzej, San Francisco, US",
+        "subtitle": "18.Mar 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4449,
+          37.7691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Natasha, Amsterdam, NL",
+        "subtitle": "20.Mar 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9027,
+          52.3666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graham, Leicester, GB",
+        "subtitle": "20.Mar 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1317,
+          52.6386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Heiko, Frankfurt am Main, DE",
+        "subtitle": "21.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6711,
+          50.0977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Antoine, Lausanne, CH",
+        "subtitle": "22.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.657,
+          46.5263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aldis, Riga, LV",
+        "subtitle": "23.Mar 2016",
+        "ticket_country_code": "lv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sébastien, Gland, CH",
+        "subtitle": "23.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2696,
+          46.4184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alex, Gland, CH",
+        "subtitle": "23.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2696,
+          46.4184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alex, CH",
+        "subtitle": "23.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adrian, Zurich, CH",
+        "subtitle": "24.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5234,
+          47.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David, Zurich, CH",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alexsander, DE",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anastasiia, Dnipropetrovsk, UA",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "ua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.039,
+          48.463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cesar, ES",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6833,
+          40.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Etienne, Liestal, CH",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7254000000000005,
+          47.483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vitaly, DE",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florent, Antibes, FR",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1278,
+          43.5624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John, SE",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kevin, Nice, FR",
+        "subtitle": "26.Mar 2016",
+        "ticket_country_code": "fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2661,
+          43.7031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adrian, Birmensdorf, CH",
+        "subtitle": "27.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4396,
+          47.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sangsoo, Stockholm, SE",
+        "subtitle": "27.Mar 2016",
+        "ticket_country_code": "se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05,
+          59.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sergi, Barcelona, ES",
+        "subtitle": "27.Mar 2016",
+        "ticket_country_code": "es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.159,
+          41.3888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andreas, Athens, GR",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          37.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Loïc, Renens, CH",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5895,
+          46.5364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amer, Lausanne, CH",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63,
+          46.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enrique, Munich, DE",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899,
+          48.1102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maxim, New York, US",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0079,
+          40.7139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "JP, San Leandro, US",
+        "subtitle": "28.Mar 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1602,
+          37.7156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nicolas, Gland, CH",
+        "subtitle": "29.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2696,
+          46.4184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preben, Zurich, CH",
+        "subtitle": "29.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5369,
+          47.3416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tal, Muri bei Bern, CH",
+        "subtitle": "29.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4942,
+          46.9317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christoph, Zurich, CH",
+        "subtitle": "29.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Steve, Chulmleigh, GB",
+        "subtitle": "30.Mar 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8881,
+          50.9022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yauheni, Minsk, BY",
+        "subtitle": "30.Mar 2016",
+        "ticket_country_code": "by"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5667,
+          53.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daniel, NL",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marc, NL",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alexandre, Zurich, CH",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kenn, Brooklyn, US",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9469,
+          40.7111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruzicka, Geneva, CH",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1436,
+          46.1952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Matthäus, Munich, DE",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5795,
+          48.1159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stefan, Munich, DE",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5795,
+          48.1159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mauricio, Geneva, CH",
+        "subtitle": "31.Mar 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1588,
+          46.1872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adrian, Henggart, CH",
+        "subtitle": "01.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6808,
+          47.5604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geoffrey, Biol, FR",
+        "subtitle": "02.Apr 2016",
+        "ticket_country_code": "fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3855,
+          45.4914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peter, Gattikon, CH",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5483,
+          47.2844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stefano, Brescia, IT",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2147,
+          45.5356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stefan, Zurich, CH",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Markus, Zurich, CH",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andrej, Zurich, CH",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paolo, Bovezzo, IT",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2418,
+          45.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Julien, London, GB",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1854,
+          51.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hernan, San Francisco, US",
+        "subtitle": "04.Apr 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4112,
+          37.7217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bruno, Gattikon, CH",
+        "subtitle": "05.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5483,
+          47.2844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marcio, Wallisellen, CH",
+        "subtitle": "05.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5963,
+          47.4212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Markus, Chateau-d'Oex, CH",
+        "subtitle": "05.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1503,
+          46.4749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dave, Gattikon, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5483,
+          47.2844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Junior, Wallisellen, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5963,
+          47.4212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patrick, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dylan, Wallisellen, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5963,
+          47.4212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John, Wiesendangen, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.788,
+          47.5227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nina, Zurich, CH",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5234,
+          47.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peter, AT",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3667,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elymer, AT",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3667,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anna, AT",
+        "subtitle": "06.Apr 2016",
+        "ticket_country_code": "at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3667,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ivan, Wallisellen, CH",
+        "subtitle": "07.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5963,
+          47.4212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stefan, Velden, DE",
+        "subtitle": "07.Apr 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25,
+          48.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jonathan, CH",
+        "subtitle": "07.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benjamin, CH",
+        "subtitle": "07.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hajan, Zurich, CH",
+        "subtitle": "07.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5644,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carlo, CH",
+        "subtitle": "08.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dan, Fort Lauderdale, US",
+        "subtitle": "09.Apr 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1295,
+          26.1391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damian, Nyon, CH",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2269,
+          46.3829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marin, Barcelona, ES",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.159,
+          41.3888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Susanna, Lugano, CH",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9542,
+          46.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Milan, Bratislava, SK",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "sk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1167,
+          48.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ondrej, Bratislava, SK",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "sk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1167,
+          48.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marco, Lecco, IT",
+        "subtitle": "11.Apr 2016",
+        "ticket_country_code": "it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39,
+          45.8532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vikram, Zurich, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lorica, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sally, London, GB",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1723,
+          51.5477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sebastian, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orta, Huddersfield, GB",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "gb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7842,
+          53.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boris, Berlin, DE",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4,
+          52.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mario, Berlin, DE",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4109,
+          52.5285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umberto, Arcene, IT",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6,
+          45.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruedi, Lucerne, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.297,
+          47.0501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fabian, Frankfurt am Main, DE",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6833,
+          50.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daniel, US",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1638,
+          39.9523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patrice, Zurich, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5234,
+          47.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marco, Lausanne, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6589,
+          46.5362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daniel R., Zurich, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orla, Bern, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.426,
+          46.9616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Michael, Lutry, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6921,
+          46.5064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olivier, Lutry, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6921,
+          46.5064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alain, Lutry, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6921,
+          46.5064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adel, Lutry, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6921,
+          46.5064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stephan, Lutry, CH",
+        "subtitle": "12.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6921,
+          46.5064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "René, Wetzikon, CH",
+        "subtitle": "13.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8064,
+          47.3224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manuela, Zurich, CH",
+        "subtitle": "13.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5644,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simon, New York, US",
+        "subtitle": "13.Apr 2016",
+        "ticket_country_code": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9503,
+          40.7625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thomas, Zurich, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pietro, Rotkreuz, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4614,
+          47.1383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fabrice, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roland, Samstagern, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6795,
+          47.1936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gonzalo, Zurich, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oliver, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marco, CH",
+        "subtitle": "14.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daniel, Henggart, CH",
+        "subtitle": "15.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6808,
+          47.5604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David, Henggart, CH",
+        "subtitle": "15.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6808,
+          47.5604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tamas, Thalwil, CH",
+        "subtitle": "15.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.568999999999999,
+          47.292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lukáš, Lugano, CH",
+        "subtitle": "16.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9542,
+          46.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roland, Herisau, CH",
+        "subtitle": "17.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2876,
+          47.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andreas, Herisau, CH",
+        "subtitle": "17.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2876,
+          47.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bünyamin, CH",
+        "subtitle": "17.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rafael, CH",
+        "subtitle": "17.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Colin-Brian, CH",
+        "subtitle": "17.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Michael, Henggart, CH",
+        "subtitle": "18.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6808,
+          47.5604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Imre, CH",
+        "subtitle": "18.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ognen, Skopje, MK",
+        "subtitle": "18.Apr 2016",
+        "ticket_country_code": "mk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4314,
+          41.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christian, St. Gallen, CH",
+        "subtitle": "19.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3622,
+          47.4236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hanno, Zurich, CH",
+        "subtitle": "19.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Francisco, Dubendorf, CH",
+        "subtitle": "19.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6206,
+          47.3928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sylvain, CH",
+        "subtitle": "19.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yassine, FR",
+        "subtitle": "19.Apr 2016",
+        "ticket_country_code": "fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Danijela, Amriswil, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2936,
+          47.5409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carla, Amriswil, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2936,
+          47.5409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alexander, Amriswil, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2936,
+          47.5409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anton, Zurich, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Joshua, Zurich, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reto, Bern, CH",
+        "subtitle": "20.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4667,
+          46.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Abraham Tomas, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simon, Morges, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4949,
+          46.5135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin, Altendorf, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8256,
+          47.1783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peter, Altendorf, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8256,
+          47.1783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Melanie, Zurich, CH",
+        "subtitle": "21.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olivier, Clarens, CH",
+        "subtitle": "22.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8899,
+          46.4463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dmitri, Zurich, CH",
+        "subtitle": "22.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stefan, Zurich, CH",
+        "subtitle": "22.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martina, Skopje, MK",
+        "subtitle": "23.Apr 2016",
+        "ticket_country_code": "mk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4314,
+          41.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Markus, Zurich, CH",
+        "subtitle": "24.Apr 2016",
+        "ticket_country_code": "ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5644,
+          47.3667
+        ]
+      }
+    }
+  ]
+}
