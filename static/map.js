@@ -172,9 +172,9 @@ $(document).ready(function(){
       }
     });
 
-
     $.getJSON('static/people-appbuilders16.geojson?v=1', function(geojson){
       var row_id = 0;
+      var country_stats = {};
 
       function updateFeature() {
         // if (row_id >= 10) {
@@ -187,7 +187,45 @@ $(document).ready(function(){
           return;
         }
 
-        renderFeature(geojson.features[row_id]);
+        var f = geojson.features[row_id];
+
+        var country_code = f.properties.ticket_country_code;
+        if ((typeof country_stats[country_code]) === 'undefined') {
+          country_stats[country_code] = {
+            country_code: country_code,
+            people_count: 0
+          };
+        }
+        country_stats[country_code].people_count += 1;
+
+        (function(){
+          var country_values = [];
+          for(country_code in country_stats) {
+            country_values.push(country_stats[country_code]);
+          }
+
+          function sort_by_tickets_no(a, b) {
+            if (a.people_count < b.people_count) {
+              return 1;
+            } else if (a.people_count > b.people_count) {
+              return -1;
+            }
+            return 0;
+          }
+          country_values.sort(sort_by_tickets_no);
+
+          var country_spans = [];
+          $.each(country_values, function(idx, country_data){
+            country_span = '<img src="static/flags/24/' + country_data.country_code + '.png" /> <span class="badge">' + country_data.people_count + '</span>';
+            country_spans.push(country_span);
+          });
+          $('#countries_stats').html(country_spans.join(' '));
+        })();
+
+        clearInterval(updateInterval);
+        return;
+
+        renderFeature(f);
 
         row_id += 1;
       }
