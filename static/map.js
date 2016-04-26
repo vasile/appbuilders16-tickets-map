@@ -222,9 +222,6 @@ $(document).ready(function(){
           $('#countries_stats').html(country_spans.join(' '));
         })();
 
-        clearInterval(updateInterval);
-        return;
-
         renderFeature(f);
 
         row_id += 1;
